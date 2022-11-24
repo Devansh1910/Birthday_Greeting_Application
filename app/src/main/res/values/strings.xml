@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Birthday Greet</string>
+    <string name="hello_welcome">Hello, Welcome</string>
+    <string name="send_a_customized_birthday_great_to_your_love_ones">Send a Customized Birthday Great to your love ones</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="receiver_s_name">Receiver\'s Name</string>
+    <string name="Devansh">Devansh</string>
+    <string name="todo">TODO</string>
+    <string name="application_developer">(Application Developer)</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
